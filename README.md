@@ -1,1 +1,1 @@
-# bharat-chech-verify_news_here
+# bharat-check-verify_news_here
