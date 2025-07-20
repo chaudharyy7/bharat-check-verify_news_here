@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874258622166",
+    "project_id": "vimals-portfolio",
+    "storage_bucket": "vimals-portfolio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874258622166:android:da73c27e448ef9623e4b77",
+        "android_client_info": {
+          "package_name": "com.example.bharatcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3gJLA-rpZH1ii1Rtf5F3R6JppGhE6Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
